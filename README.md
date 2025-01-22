@@ -33,7 +33,9 @@ Comparing Results:
 ### Effectiveness of Filters:
 
 Mean Filter: Smoothens the image but may blur edges.
+
 Median Filter: Highly effective for reducing Salt-and-Pepper noise while preserving edges.
+
 Sharpening Filter: Enhances edges and fine details but may increase noise visibility.
 
 ## Noise Handling:
