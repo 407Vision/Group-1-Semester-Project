@@ -33,7 +33,7 @@ Median Filter: Reduces noise by replacing each pixel with the median value of it
 
 Sharpening Filter: Enhances edges by emphasizing intensity differences.
 
-##Comparing Results:
+## Comparing Results:
 
 The filters are applied to noisy images to observe their effectiveness in noise reduction and edge preservation.
 
