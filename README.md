@@ -20,7 +20,7 @@ NumPy: For numerical computations.
 ## Adding Noise:
 
 1. Gaussian Noise: Simulated using random values from a normal distribution.
-2. 
+ 
 3. Salt-and-Pepper Noise: Simulated by randomly setting pixels to maximum (salt) or minimum (pepper) intensity.
 
 ## Applying Filters:
@@ -30,7 +30,7 @@ Median Filter: Reduces noise by replacing each pixel with the median value of it
 Sharpening Filter: Enhances edges by emphasizing intensity differences.
 Comparing Results:
 
-# The filters are applied to noisy images to observe their effectiveness in noise reduction and edge preservation.
+## The filters are applied to noisy images to observe their effectiveness in noise reduction and edge preservation.
 ## Key Insights
 ### Effectiveness of Filters:
 
