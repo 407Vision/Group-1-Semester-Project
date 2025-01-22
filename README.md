@@ -21,7 +21,8 @@ NumPy: For numerical computations.
 
 Gaussian Noise: Simulated using random values from a normal distribution.
 Salt-and-Pepper Noise: Simulated by randomly setting pixels to maximum (salt) or minimum (pepper) intensity.
-Applying Filters:
+
+## Applying Filters:
 
 Mean Filter: Reduces overall noise by averaging pixel intensities in a neighborhood.
 Median Filter: Reduces noise by replacing each pixel with the median value of its neighborhood, effective for Salt-and-Pepper noise.
