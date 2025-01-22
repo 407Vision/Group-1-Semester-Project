@@ -41,4 +41,5 @@ Sharpening Filter: Enhances edges and fine details but may increase noise visibi
 ## Noise Handling:
 
 Gaussian noise is better handled by smoothing filters.
+
 Median filters perform well against Salt-and-Pepper noise due to their resilience against outliers.
