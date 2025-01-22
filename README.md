@@ -13,13 +13,15 @@ This task focuses on implementing basic image filters for noise reduction and ed
 
 ## Libraries Used:
 OpenCV: For image processing operations.
+
 NumPy: For numerical computations.
 
 #Steps
 ## Adding Noise:
 
 1. Gaussian Noise: Simulated using random values from a normal distribution.
-2. Salt-and-Pepper Noise: Simulated by randomly setting pixels to maximum (salt) or minimum (pepper) intensity.
+2. 
+3. Salt-and-Pepper Noise: Simulated by randomly setting pixels to maximum (salt) or minimum (pepper) intensity.
 
 ## Applying Filters:
 
